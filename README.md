@@ -21,4 +21,4 @@
 ## Projetos
 
 1) [Python Impressionador - Hashtag Treinamentos](https://github.com/gifiorese/Projetos-Python/tree/main/Python%20Impressionador)</br>
-    2.1. [Panda, Python e Excel](https://github.com/gifiorese/Projetos-Python/tree/main/Python%20Impressionador/M%C3%B3dulo%2015%20-%20An%C3%A1lise%20de%20Dados%20com%20o%20Pandas%20e%20Integra%C3%A7%C3%A3o%20Python%2BExcel)
+    2.1. [Pandas, Python e Excel](https://github.com/gifiorese/Projetos-Python/tree/main/Python%20Impressionador/M%C3%B3dulo%2015%20-%20An%C3%A1lise%20de%20Dados%20com%20o%20Pandas%20e%20Integra%C3%A7%C3%A3o%20Python%2BExcel)
