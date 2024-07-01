@@ -1,7 +1,6 @@
 # Olá! Aqui você poderá encontrar projetos diversos de cursos e desafios dos quais participo 😁
 
 <div style="display: inline_block"><br>
-  <p>Análise de dados:</p>
   <img align="center" alt="Gi-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Gi-Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
   <img align="center" alt="Gi-Numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg">
